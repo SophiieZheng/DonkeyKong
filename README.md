@@ -1,4 +1,5 @@
 ## Donkey Kong-Inspired Game
+Created By Sophie Zheng and Paige McDougall
 
 ### Description:
 This project is a Donkey Kong-inspired game implemented in C, utilizing PS2 keyboard input and VGA display. The game features a platform-type gameplay where the player controls Mario through various levels while navigating obstacles and rolling barrels. The objective is to guide Mario to a flag located at the end of each level, all while striving to achieve the fastest completion time and jumping over as many barrels as possible.
